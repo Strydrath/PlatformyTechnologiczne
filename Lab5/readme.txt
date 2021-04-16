@@ -1,0 +1,1 @@
+Miałam problem z importem assertj, więc zamiast tego korzystam z Assertions jupitera.
